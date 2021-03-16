@@ -1,2 +1,2 @@
-# OpenArt
-A collection of open art assets.
+# Art
+A collection of art assets.
